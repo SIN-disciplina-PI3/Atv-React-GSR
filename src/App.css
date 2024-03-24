@@ -1,0 +1,71 @@
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container img{
+    height: 400px;
+    border-radius: 1rem;
+}
+
+.container p{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    
+}
+
+.container span{
+    color: rgb(95, 155, 185);
+}
+
+p {
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: large;
+}
+
+#mar{
+    height: 400px;
+    border-radius: 1rem;
+}
+
+#linkedin {
+    height: 300px;
+    margin-top: 5px;
+    border-radius: 1rem;
+}
+
+#foto {
+    margin-right: 15px;
+    height: 300px;
+    margin-top: 5px;
+    border-radius: 1rem;
+}
+
+
+
+
+/*.btn {
+    width: 250px;
+    height: 50px;
+    font-size: 1.125rem;
+    border-radius: 8px;
+    cursor:pointer; 
+}
+
+
+.btn red{
+    background-color:rgb(95, 155, 185);
+    color: aliceblue;
+}
+
+
+.btn-red:hover {
+    background-color: aliceblue;
+}
+*/
